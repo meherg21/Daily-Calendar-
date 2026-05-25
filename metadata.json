@@ -1,0 +1,6 @@
+{
+  "name": "Daily Calendar",
+  "description": "A highly modern, responsive multi-calendar application showing Gregorian, Hijri, and Bikarmi dates with Urdu Support, prayer times, and AI-powered reflections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
